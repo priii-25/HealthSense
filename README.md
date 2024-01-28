@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Model
+#Disease Detection Model
